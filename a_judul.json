@@ -1,0 +1,77 @@
+﻿{
+  "book1": {
+    "author": "Goldberg, Yoav ",
+    "year": "(2016)",
+    "title": "\"A Primer on Neural Network Models for Natural Language Processing\""
+  },
+  "book2": {
+    "author": "Goodfellow, Ian; Bengio, Yoshua; Courville, Aaron",
+    "year": "(2016)",
+    "title": " Deep Learning."
+  },
+  "book3": {
+    "author": "Jozefowicz, Rafal; Vinyals, Oriol; Schuster, Mike; Shazeer, Noam; Wu, Yonghui",
+    "year": "(2016)",
+    "title": " Exploring the Limits of Language Modeling."
+  },
+  "book4": {
+    "author": "Choe, Do Kook; Charniak, Eugene.",
+    "year": " 2016.\n",
+    "title": "\"Parsing as Language Modeling\""
+  },
+  "book5": {
+    "author": "Vinyals, Oriol; et al.",
+    "year": "2015.",
+    "title": "\"Grammar as a Foreign Language\""
+  },
+  "book6": {
+    "author": "Winograd, Terry ",
+    "year": "(1971)",
+    "title": ". Procedures as a Representation for Data in a Computer Program for Understanding Natural Language (Thesis)."
+  },
+  "book7": {
+    "author": "Schank, Roger C.",
+    "year": "(1977)",
+    "title": ". Scripts, Plans, Goals, and Understanding: An Inquiry Into Human Knowledge Structures."
+  },
+  "book8": {
+    "author": "Mark Johnson.",
+    "year": " 2009 ",
+    "title": ". How the statistical revolution changes (computational) linguistics."
+  },
+  "book9": {
+    "author": "Philip Resnik.",
+    "year": " 2011.\n",
+    "title": " Four revolutions."
+  },
+  "book10": {
+    "author": "Klein, Dan; Manning, Christopher D.",
+    "year": "(2002)",
+    "title": "\"Natural language grammar induction using a constituent-context model\""
+  },
+  "book11": {
+    "author": "Kishorjit, N.; Vidya, Raj RK.; Nirmal, Y.; Sivaji, B.",
+    "year": "(2012)",
+    "title": "\"Manipuri Morpheme Identification\""
+  },
+  "book12": {
+    "author": "Duan, Yucong; Cruz, Christophe ",
+    "year": "(2011)",
+    "title": "\"Formalizing Semantic of Natural Language through Conceptualization from Existence\""
+  },
+  "book13": {
+    "author": "Mittal",
+    "year": "(2011)",
+    "title": "\"Versatile question answering systems: seeing in synthesis\""
+  },
+  "book14": {
+    "author": "PASCAL",
+    "year": "/2011",
+    "title": "PASCAL Recognizing Textual Entailment Challenge ("
+  },
+  "book15": {
+    "author": "Yi, Chucai; Tian, Yingli ",
+    "year": "(2012)",
+    "title": "\"Assistive Text Reading from Complex Background for Blind Persons\""
+  }
+}
